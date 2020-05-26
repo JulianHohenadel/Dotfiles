@@ -21,6 +21,8 @@ set ttimeoutlen=50
 
 call plug#begin('~/.vim/plugged')
 
+" Autoclose
+Plug 'jiangmiao/auto-pairs'
 " Autocompletion
 Plug 'ycm-core/YouCompleteMe'
 " Color Theme
