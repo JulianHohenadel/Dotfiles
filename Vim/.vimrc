@@ -1,5 +1,6 @@
 syntax on
 
+set clipboard=unnamedplus
 set hidden
 set noerrorbells
 set tabstop=4 softtabstop=4
@@ -17,7 +18,7 @@ set incsearch
 " Lightline settings
 set noshowmode
 set laststatus=2
-set ttimeoutlen=50
+set ttimeoutlen=10
 
 call plug#begin('~/.vim/plugged')
 
