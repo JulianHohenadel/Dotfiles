@@ -1,3 +1,11 @@
+"
+"        _           
+" __   _(_)_ __ ___  
+" \ \ / / | '_ ` _ \ 
+"  \ V /| | | | | | |
+"   \_/ |_|_| |_| |_|
+" ~/.vimrc
+ 
 syntax on
 
 set clipboard=unnamedplus
